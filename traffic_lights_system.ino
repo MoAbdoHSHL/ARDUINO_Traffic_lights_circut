@@ -1,5 +1,7 @@
 // C++ code
 //
+// BY MOHAMED ABDO
+//
 void setup()
 {
   pinMode(12, OUTPUT);
@@ -50,3 +52,6 @@ void loop()
   digitalWrite(8, HIGH);
   delay(500); // Wait for 500 millisecond(s)
 }
+//
+// BY MOHAMED ABDO
+//
