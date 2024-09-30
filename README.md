@@ -1,4 +1,7 @@
 **C++ Arduino**
 
-A code for a Traffic lights system
+A Traffic lights system
 with circuit loops
+using Arduino µC
+
+By Mohamed Abdo
