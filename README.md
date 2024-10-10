@@ -4,7 +4,7 @@ A Traffic lights system
 with circuit loops
 using Arduino µC
 
-<img width="511" alt="image" src="https://github.com/user-attachments/assets/218fa196-b208-44a3-8062-75c7b07f07c4">
+![image](https://github.com/user-attachments/assets/6a14aaf9-3524-41bd-9160-0a37eae22ab1)
 
 
 Diagrams:
