@@ -5,7 +5,8 @@ with circuit loops
 using Arduino µC
 
 Simulation:
-![image](https://github.com/user-attachments/assets/6a14aaf9-3524-41bd-9160-0a37eae22ab1)
+![image](https://github.com/user-attachments/assets/93a076ed-07f0-4db2-ac3d-b28a9a3a5d9e)
+
 
 
 Diagrams:
