@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6226f47e-7daa-48f8-a716-623c4bea1da2)**C++ Arduino**
+**C++ Arduino**
 
 A Traffic lights system
 with circuit loops
